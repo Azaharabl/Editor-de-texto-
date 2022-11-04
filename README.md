@@ -1,7 +1,7 @@
 # Editor-de-texto-
 Ejercicio de la realización desde 0 de un editor de texto 
 
-##Explicación
+## Explicación
 Bloc de notas utilizando las herramientas proporcionadas por
 NetBeans para el desarrollo visual de Interfaces gráficas.
 
